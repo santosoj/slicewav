@@ -1,0 +1,14 @@
+{
+  "name": "slicewav",
+  "version": "0.0.1",
+  "description": "Slice audio file into parts of equal length",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "github.com/santosoj",
+  "license": "ISC",
+  "bin": {
+    "slicewav": "index.js"
+  }
+}
