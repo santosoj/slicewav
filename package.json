@@ -10,5 +10,9 @@
   "license": "ISC",
   "bin": {
     "slicewav": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santosoj/slicewav.git"
   }
 }
