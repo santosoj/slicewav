@@ -2,6 +2,11 @@
 
 Quick audio file slicer.
 
+Install from [npm Registry](https://www.npmjs.com/package/slicewav):
+```shell
+npm i -g slicewav
+```
+
 Install from local:
 ```shell
 npm i -g .
